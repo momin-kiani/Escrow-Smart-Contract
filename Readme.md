@@ -1,5 +1,12 @@
 # Blockchain Escrow System using ERC-20 Token (Quecko Coin)
 
+## 🚀 Live Demo
+
+[![Open Escrow Contract in Remix](https://img.shields.io/badge/Open%20Escrow%20in-Remix-blue?logo=ethereum)](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.30+commit.73712a01.js&url=https://github.com/momin-kiani/Escrow-Smart-Contract/blob/main/escrow.sol)
+
+[![Open Token Contract in Remix](https://img.shields.io/badge/Open%20Token%20in-Remix-blue?logo=ethereum)](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.30+commit.73712a01.js&url=https://github.com/momin-kiani/Escrow-Smart-Contract/blob/main/ERC-20-Token.sol)
+
+
 This repository contains two core Solidity smart contracts:
 
 1. **Token.sol** — A custom ERC-20 token implementation called **Quecko Coin (QUE)**.
